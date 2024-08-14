@@ -63,7 +63,7 @@ int main()
                 {"archivo5.txt"}
         }
     };
-    string target = "archivo5.txt";
+    string target = "archivo4.txt";
     string path = "";
 
     cout << &sistemaDeArchivos << endl;
